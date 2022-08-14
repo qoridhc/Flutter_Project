@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20914367094",
+    "project_id": "mini-netflix-clone-d62ed",
+    "storage_bucket": "mini-netflix-clone-d62ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20914367094:android:b1eeb609a1b791e6840d57",
+        "android_client_info": {
+          "package_name": "com.example.mini_netflix_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20914367094-379lm193rmr0tgft7g4ji1g2qg842fpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwfx7PaFb9CqRJTbpNhA55mMClmSfpJS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20914367094-379lm193rmr0tgft7g4ji1g2qg842fpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
